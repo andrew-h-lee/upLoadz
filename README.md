@@ -29,4 +29,3 @@ NodeJS MVC Design Pattern Application
 * Run `npm install && npm start` OR `yarn && yarn start` on Terminal.
 
 ## Reference:
-p103-109
